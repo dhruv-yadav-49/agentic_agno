@@ -8,7 +8,7 @@ This repository contains two autonomous AI agents built using the **Agno** (form
 An expert travel assistant that advises on travel safety, itineraries, and queries. It is equipped with **DuckDuckGo Search Tools** to fetch real-time information from the web.
 
 ### 2. Investment Analyst (`finance.py`)
-An investment analysis agent designed to research stock prices, fundamentals, and analyst recommendations. It uses **Yahoo Finance Tools** and **DuckDuckGo Search Tools** to gather and display data in structured tables.
+An investment analysis agent designed to research stock prices, fundamentals, and analyst recommendations. It uses **Yahoo Finance Tools** and **DuckDuckGo Search Tools** to gather and display data in structured tables format.
 
 ## Setup Instructions
 
