@@ -2,7 +2,7 @@
 
 This repository contains two autonomous AI agents built using the **Agno** (formerly Phidata) framework and powered by **Groq** (`llama-3.3-70b-versatile` and `qwen/qwen3-32b`).
 
-## Projects
+#Projects
 
 ### 1. Travel Agent (`agent.py`)
 An expert travel assistant that advises on travel safety, itineraries, and queries. It is equipped with **DuckDuckGo Search Tools** to fetch real-time information from the web.
